@@ -298,7 +298,7 @@ Java 中的注释有三种：
 ```java
 int a = 9;
 int b = a++;
-int c = ++a;
+int c = ++b;
 int d = c--;
 int e = --d;
 ```
